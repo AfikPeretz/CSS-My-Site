@@ -1,0 +1,124 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    font-family: 'Merriweather', serif;
+}
+
+
+h1{
+    font-size:40px;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#p1 {
+    font-size:18px;
+}
+
+.skills{
+    position: relative;
+}
+
+#space{
+    margin-top: 50px;
+}
+
+#skill-img1{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 5px;
+    right: 680px;
+}
+#skill-img2{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 5px;
+    left: 680px;
+}
+
+.p-content{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:16px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+
+.cloud-right{
+    width:200px;
+    position: absolute;
+    top: 90px;
+    right: 400px;
+    
+
+}
+
+.cloud-left{
+    width:200px;
+    position: absolute;
+    bottom: 340x;
+    left: 400px;
+}
+
+.mountain{
+    width:700px;
+    height:400px;
+}
+
+
+
+
+
+#profile-pic{
+    margin-top: 20px;
+}
+
+.square{
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+
+#top-container {
+    background-color: rgb(177, 249, 255);
+    padding-top: 200px;
+    position: relative;
+
+}
+
+#touch{
+    margin-bottom: 40px;
+}
+
+
+
+#middle-container{
+   
+    
+}
+
+
+#bottom-container{
+    padding-top: 500px;
+   
+    
+    
+   
+} 
+
