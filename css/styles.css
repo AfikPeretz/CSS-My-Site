@@ -36,7 +36,9 @@ h3{
 
 
 #parent{
+    margin-top: 0;
     padding: 30px;
+    padding-top: 10px;
 }
 
 #skill-img1{
