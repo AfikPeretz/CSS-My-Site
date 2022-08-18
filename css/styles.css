@@ -33,19 +33,41 @@ h3{
     margin-top: 50px;
 }
 
-#skill-img1{
-    position: absolute;
-    width:20px;
-    height:20px;
-    top: 1%;
-    right: 45%;
+
+
+#parent{
+    padding: 30px;
 }
-#skill-img2{
+
+#skill-img1{
+    display: inline-block;
     position: absolute;
     width:20px;
     height:20px;
-    top: 1%;
-    left: 45%;
+    right:45%;
+    margin-top: 5px;
+    
+
+}
+
+
+#skill-img2{
+    display: inline-block;
+    position: absolute;
+    width:20px;
+    height:20px;
+    left:45%; 
+    margin-top: 5px;
+}
+
+
+#myskills{ 
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    margin-top: 0px;
+    
 }
 
 .p-content{
@@ -122,4 +144,3 @@ h3{
    
 } 
 
-/* ok */
