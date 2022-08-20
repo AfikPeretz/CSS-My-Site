@@ -1,2 +1,2 @@
 # CSS-My-Site
-Updates will follow
+Click on the following link to see how the project looks on GitHub page: https://afikperetz.github.io/CSS-My-Site/
